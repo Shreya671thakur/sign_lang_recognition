@@ -1,0 +1,6 @@
+__pycache__/
+models/
+*.h5
+data/*
+.vscode/
+.env
